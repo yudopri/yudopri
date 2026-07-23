@@ -13,17 +13,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Software Engineering Student
-- 💻 Focusing on **Full-Stack Web** & **Mobile Development**
-- 🛠️ Working with **Next.js**, **Laravel**, **Flutter**, and **ASP.NET**
-- 🎯 Interested in **Decision Support Systems (DSS)** and **Machine Learning**
-- 📫 Reach me on **LinkedIn**
+- Software Engineering Student
+- Focusing on **Full-Stack Web** & **Mobile Development**
+- Working with **Next.js**, **Laravel**, **Flutter**, and **ASP.NET**
+- Interested in **Decision Support Systems (DSS)** and **Machine Learning**
+- Reach me on **LinkedIn**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -56,16 +56,6 @@
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=yudopri&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|:---------|:------------|:-----|
-| 🌐 **Employee Performance Evaluation** | Web-based employee evaluation system using DSS methodologies | `Laravel` `WASPAS` `Tailwind CSS` |
-| 📱 **ID Card Verification App** | Mobile application with pattern matching & image processing | `Flutter` `Flask` `Python` |
-| 📊 **Modern Admin Dashboard** | Responsive dashboard built from Figma design | `Next.js` `Tailwind CSS` |
 
 ---
 
