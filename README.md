@@ -1,78 +1,76 @@
-# Hi, I'm Yudo Lasprianto 👋
+<div align="center">
 
-Software Engineering student with a strong interest in **Full-Stack Web Development**, **Mobile Development**, and **Decision Support Systems**. I enjoy building scalable applications and continuously learning modern technologies.
+# Hi there, I'm Yudo 👋
 
-📍 Indonesia
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Mobile+Developer;Passionate+about+Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
-## About Me
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yudo-lasprianto)
+![Profile Views](https://komarev.com/ghpvc/?username=yudopri&style=flat-square&color=blue)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 Software Engineering Student
-- 💼 Open to Internship & Entry-Level Software Engineer opportunities
-- 🌱 Currently learning ASP.NET Core, Next.js, Flutter, and AI-powered applications
-- 📫 LinkedIn: https://linkedin.com/in/yudo-lasprianto
+- 💻 Focusing on **Full-Stack Web** & **Mobile Development**
+- 🛠️ Working with **Next.js**, **Laravel**, **Flutter**, and **ASP.NET**
+- 🎯 Interested in **Decision Support Systems (DSS)** and **Machine Learning**
+- 📫 Reach me on **LinkedIn**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+<div align="center">
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+### Languages & Frameworks
 
-### Database
+<img src="https://skillicons.dev/icons?i=nextjs,laravel,flutter,dotnet,python,flask" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+<br><br>
 
-### Tools
+### Database & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,figma,tailwind" />
+
+</div>
 
 ---
 
-## Featured Projects
+## 📊 GitHub Statistics
 
-### Employee Performance Evaluation System
+<div align="center">
 
-Decision Support System for employee evaluation using multi-criteria decision-making methods.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yudopri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**Tech**
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudopri&layout=compact&theme=tokyonight&hide_border=true"/>
 
-`ASP.NET Core` `Next.js` `PostgreSQL`
+</div>
 
----
+<div align="center">
 
-### Secure ID Verification
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=yudopri&theme=tokyonight&hide_border=true"/>
 
-Mobile application for document verification integrated with image processing.
-
-**Tech**
-
-`Flutter` `Python` `Flask`
+</div>
 
 ---
 
-### Responsive Admin Dashboard
+## 🚀 Featured Projects
 
-Modern dashboard with responsive UI and reusable components.
-
-**Tech**
-
-`Next.js` `Tailwind CSS`
+| Project | Description | Tech |
+|:---------|:------------|:-----|
+| 🌐 **Employee Performance Evaluation** | Web-based employee evaluation system using DSS methodologies | `Laravel` `WASPAS` `Tailwind CSS` |
+| 📱 **ID Card Verification App** | Mobile application with pattern matching & image processing | `Flutter` `Flask` `Python` |
+| 📊 **Modern Admin Dashboard** | Responsive dashboard built from Figma design | `Next.js` `Tailwind CSS` |
 
 ---
 
-## GitHub Statistics
+<div align="center">
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yudopri&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudopri&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+### ✨ Thanks for visiting!
+
+</div>
