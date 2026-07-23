@@ -1,56 +1,78 @@
-# Hi there, 
+# Hi, I'm Yudo Lasprianto 👋
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=435&lines=Full-Stack+%26+Mobile+Developer;Passionate+about+Building+Scalable+Apps;Always+Learning+%26+Exploring+New+Tech" alt="Typing SVG" />
-</p>
+Software Engineering student with a strong interest in **Full-Stack Web Development**, **Mobile Development**, and **Decision Support Systems**. I enjoy building scalable applications and continuously learning modern technologies.
 
-- 🎓 Software Engineering Student & Developer
-- 💻 Focusing on **Full-Stack Web** and **Mobile Development**
-- 🛠️ Currently working with **Next.js**, **Laravel**, and **Flutter**
-- 🎯 Interested in **Decision Support Systems (DSS)** and **Machine Learning/Image Processing**
-- 📫 How to reach me: **[LinkedIn Profile](https://linkedin.com/in/yudo-lasprianto)**
+📍 Indonesia
 
----
+## About Me
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Styling & UI:**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- 🎓 Software Engineering Student
+- 💼 Open to Internship & Entry-Level Software Engineer opportunities
+- 🌱 Currently learning ASP.NET Core, Next.js, Flutter, and AI-powered applications
+- 📫 LinkedIn: https://linkedin.com/in/yudo-lasprianto
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yudopri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudopri&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yudopri&theme=tokyonight" alt="Streak Stats" />
-</p>
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma)
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🌐 **Employee Performance Eval** | Web-based performance evaluation system using DSS methodologies | `Laravel` `WASPAS` `Tailwind` |
-| 📱 **ID Card Verification App** | Pattern matching & cropped ID card processing integration | `Flutter` `Flask` `Python` |
-| 📊 **Modern Web Dashboard** | Responsive admin dashboard built from Figma design | `Next.js` `Tailwind CSS` |
+### Employee Performance Evaluation System
+
+Decision Support System for employee evaluation using multi-criteria decision-making methods.
+
+**Tech**
+
+`ASP.NET Core` `Next.js` `PostgreSQL`
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yudopri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+### Secure ID Verification
+
+Mobile application for document verification integrated with image processing.
+
+**Tech**
+
+`Flutter` `Python` `Flask`
+
+---
+
+### Responsive Admin Dashboard
+
+Modern dashboard with responsive UI and reusable components.
+
+**Tech**
+
+`Next.js` `Tailwind CSS`
+
+---
+
+## GitHub Statistics
+
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yudopri&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudopri&layout=compact&theme=transparent&hide_border=true"/>
 </p>
